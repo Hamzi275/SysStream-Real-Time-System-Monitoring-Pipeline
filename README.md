@@ -5,7 +5,8 @@ This project is a **real-time monitoring pipeline** that captures **system perfo
 The main goal of this project is to provide **live system insights** using a scalable data pipeline and interactive visualization.
 
 ---
-
+![Dashboard Preview](Dashboard.png)
+---
 ## ⚙️ Project Architecture
 1. **Producer (Python + psutil):**
    - Captures system performance metrics such as CPU usage, memory usage, disk usage, and network traffic.
