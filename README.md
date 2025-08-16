@@ -38,7 +38,3 @@ The main goal of this project is to provide **live system insights** using a sca
 
 ---
 
-
-
-# (Optional) Test Consumer
-.\bin\windows\kafka-console-consumer.bat --topic firstTopic --from-beginning --bootstrap-server localhost:9092
